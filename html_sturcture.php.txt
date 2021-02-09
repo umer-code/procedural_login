@@ -1,0 +1,12 @@
+Sign up page add front end validations
+Firstname, email, password, gender required
+Add server side validations on signup
+
+Implement confirm email functionality
+Configure email
+Phpmailer to send email to the email registered with user
+
+When user returns from email validation automatically login that user
+Implement session on login
+When logged in don't show login/signup page
+When not logged in don't show home page
